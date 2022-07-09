@@ -15,5 +15,7 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 여러 방법을 찾아보다가 jekyll now로 간단하고 쉽게 블로그를 만들 수 있는 방법을 알게 되었다.
 
 이 방법은 [Jekyll-Now github](https://github.com/barryclark/jekyll-now)에 들어가 fork를 하고 Repository name을 [gihub아이디].github.io로 변경해 준다. 그럼 끝????
+
+
 `fork: 남이 만들어둔 소스코드를 내 폴더에 복사하여 소스코드를 수정할 수 있다.(간단히 복사/붙여넣기)`
 
