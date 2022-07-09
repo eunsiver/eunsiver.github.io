@@ -8,15 +8,15 @@ Eunji Lee
 
 ### More Information
 
-> major 
+#### major 
 
 Department of Unmanned Mobility, Department of Intelligent Mechanical Engineering
 
-> university
+#### university
 
 Sejong Univeresity
 
-> birth
+#### birth
 
 2000.06.27
 

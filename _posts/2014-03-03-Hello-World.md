@@ -3,7 +3,7 @@ layout: post
 title: 첫 포스트
 ---
 
-블로그를 게설하였다.
+블로그를 개설하였다.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
