@@ -5,9 +5,7 @@ title: 깃허브 블로그를 써 본 후기
 
 깃허브 블로그 Vs Velog
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
 ## 깃허브 블로그 vs Velog
 
@@ -20,6 +18,7 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 ### 단점
 - 시작하기 어렵고 오래 걸린다
 - 수정 시 반영이 매우 느린 느낌이다
+- 적용이 안되는데 내가 못하는 것 같긴 한데 왜 그럴까 답답하다
 - 커뮤니티 성격이 아니라 다른 블로그 같이 유용한 글들을 볼 수 없다
 
 > Velog
